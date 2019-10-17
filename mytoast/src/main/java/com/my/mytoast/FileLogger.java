@@ -68,5 +68,6 @@ public abstract class FileLogger {
             super.finalize();
         }
     }
+    Log.d("Debug","Debug");
 
 }
